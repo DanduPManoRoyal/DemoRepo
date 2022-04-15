@@ -30,6 +30,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  <h1> Hello Manu This is the testing project </h1> 
+  <h1> Hello M@nu </h1>
   
 </form>
