@@ -30,6 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  <h1> Hello M@nu </h1>
+  <input type="Manu" placeholder="Enter password" name="psw" id="psw" required>
+  <br>
   
 </form>
