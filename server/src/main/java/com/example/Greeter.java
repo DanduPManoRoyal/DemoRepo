@@ -11,6 +11,12 @@ public class Greeter {
   public Greeter() {
 
   }
+  
+  public void getthings() {
+	  System.out.println("get the data");
+  }
+  
+  
 
   //TODO: Add javadoc comment
   public String greet(String someone) {
